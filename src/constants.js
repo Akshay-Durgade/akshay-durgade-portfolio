@@ -20,7 +20,7 @@ import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
 import linuxLogo from './assets/tech_logo/Linux.png';
 import bashLogo from './assets/tech_logo/Bash.png';
-import pyLogo from './assets/tech_logo/Python.png';
+import pyLogo from './assets/tech_logo/python.png';
 
 
 // Experience Section Logo's
