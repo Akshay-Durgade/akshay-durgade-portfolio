@@ -139,12 +139,20 @@ const Navbar = () => {
                 <FaGithub size={24} />
               </a>
               <a
-                href="https://www.linkedin.com/in/omkar-kabugade-306460199/"
+                href="https://www.linkedin.com/in/akshaydurgade/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
               >
                 <FaLinkedin size={24} />
+              </a>
+              <a
+                href="mailto:akshaydurgade1604@gmail.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-300 hover:text-[#8245ec]"
+              >
+                <SiGmail size={24} />
               </a>
             </div>
           </ul>
