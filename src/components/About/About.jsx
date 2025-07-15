@@ -28,7 +28,7 @@ const About = () => {
                 "DevOps Engineer",
                 "Site Reliability Engineer",
                 "MLOps Engineer",
-                "Coder",
+                "AWS Solutions Architect",
               ]}
               speed={100}
               eraseSpeed={50}
@@ -41,7 +41,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed text-justify">
-          👋 Hi, I'm a DevOps Engineer with 2+ years of experience in architecting and automating cloud-native infrastructure using AWS, Kubernetes, Terraform, and CI/CD tools like Jenkins, GitHub Actions, and Azure DevOps. I specialize in building scalable, secure platforms with Infrastructure as Code and seamless deployment pipelines.<br /><br /> I’ve enabled high-availability microservices on EKS, streamlined global deployments, and improved developer productivity through automation and internal tooling.
+          👋 Hi, I'm a DevOps Engineer with 2.5+ years of experience in architecting and automating cloud-native infrastructure using AWS, Kubernetes, Terraform, and CI/CD tools like Jenkins, GitHub Actions, and Azure DevOps. I specialize in building scalable, secure platforms with Infrastructure as Code and seamless deployment pipelines.<br /><br /> I’ve enabled high-availability microservices on EKS, streamlined global deployments, and improved developer productivity through automation and internal tooling.
           </p>
           {/* Resume Button */}
           <a
